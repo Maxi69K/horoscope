@@ -1,0 +1,43 @@
+/**********************************************
+                Global styles
+**********************************************/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #33d6ff;
+}
+
+/**********************************************
+                Specific styles
+**********************************************/
+#image {
+  width: 300px;
+}
+
+#noticeErrors {
+  margin: 0;
+  padding: 0;
+}
+
+.myFooter {
+  background-color: #0d0d0d;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+#userSign {
+  background-color: transparent;
+}
+
+.form-label {
+  margin-top: 10px;
+}
+
+#typeOfHoroscope::placeholder {
+  color: #ddd;
+}
