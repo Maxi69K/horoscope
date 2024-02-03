@@ -1,6 +1,6 @@
 # Horoscope
 
-Project done using HTML, CSS and vanila JavaScript.
+Project done using HTML, CSS and vanila JavaScript and Bootstrap.
 
 ### `Horoscope` :point_right: [Live Demo](https://maxi69k.github.io/horoscope) :point_left: just do a CTRL+click (to open :link: in a new tab)
 
